@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\bin\Debug\net8.0\ServiceBusContracts.exe
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\bin\Debug\net8.0\ServiceBusContracts.deps.json
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\bin\Debug\net8.0\ServiceBusContracts.runtimeconfig.json
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\bin\Debug\net8.0\ServiceBusContracts.dll
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\bin\Debug\net8.0\ServiceBusContracts.pdb
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.AssemblyInfo.cs
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.dll
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\refint\ServiceBusContracts.dll
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.pdb
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ServiceBusContracts.genruntimeconfig.cache
+C:\Users\victo\source\repos\ServiceBusExample\ServiceBusContracts\obj\Debug\net8.0\ref\ServiceBusContracts.dll

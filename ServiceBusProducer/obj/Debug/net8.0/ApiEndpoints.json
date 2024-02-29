@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ServiceBusProducer.Controllers.MessagingController",
+    "Method": "PublishCustomer",
+    "RelativePath": "Messaging/publish/customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ServiceBusContracts.CreateCustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceBusProducer.Controllers.MessagingController",
+    "Method": "PublishOrder",
+    "RelativePath": "Messaging/publish/order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ServiceBusContracts.CreateOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceBusProducer.Controllers.MessagingController",
+    "Method": "PublishText",
+    "RelativePath": "Messaging/publish/text",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
